@@ -1,4 +1,4 @@
-# Auto backup folder path to php
+# 1Click to backup folder path to php
 
 The first time is you have to download Google api php client
 
