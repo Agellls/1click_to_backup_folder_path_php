@@ -42,7 +42,7 @@ After the file is downloaded, we will get a .json file with a file name that is 
   <dd>• MySQL
 </dl>
 
-After that just run the file [upload.php](https://localhost/gdrive/upload.php) on your browser, and click 'login with Google' and choose the email already add on 'Test users'
+After that just run the file [upload.php](https://github.com/Agellls/1click_to_backup_folder_path_php_with_login_account/blob/master/upload.php) on your browser, and click 'login with Google' and choose the email already add on 'Test users'
 
 ![OAuth Credential File](assets/Screenshot_12.png)
 
