@@ -1,6 +1,6 @@
 # 1Click to backup folder path to php
 
-The first time is you have to download Google api php client
+The first time is you have to download Google api php client and extract with the same folder with <b>upload.php</b>
 
 <dl>
   <dt>Google api php client</dt><dd><a href="https://github.com/googleapis/google-api-php-client/releases">https://github.com/googleapis/google-api-php-client/releases</a>
