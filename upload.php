@@ -110,7 +110,11 @@ $service = new Google_Service_Drive($client);
                                     'uploadType' => 'multipart'
                                 ));
 
-                                echo '<div class="alert alert-success mt-3">Uploaded: ' . $result->name . '</div>';
+                                // Get the file ID and create the clickable link
+                                $fileId = $result->id;
+                                $fileLink = 'https://drive.google.com/file/d/' . $fileId . '/view';
+
+                                echo '<div class="alert alert-success mt-3">Uploaded: <a href="' . $fileLink . '" target="_blank">' . $result->name . '</a></div>';
 
                                 // Clean up the temporary zip file
                                 unlink($zipPath);
