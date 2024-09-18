@@ -1,4 +1,4 @@
-# 1Click to backup folder path to php
+# 1 click to backup folder path to php
 
 The first time is you have to download Google api php client and extract with the same folder with <b>upload.php</b>
 
